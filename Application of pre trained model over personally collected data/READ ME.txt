@@ -1,0 +1,80 @@
+==============
+==== NOTE ====
+==============
+
+- Session 1 and Session 2 have the same marker's definition. 
+- Session 3 and Session 4 have the same marker's definition. 
+- Session 5 and Session 6 have the same marker's definition. 
+
+- PPG and GSR Sampling Frequency for all the sessions = 128 Hz
+
+- Note that, unlike the LAB02 assignment, there are two different markers for math calculation and audio listening. Please, remember to adjust the code accordingly. 
+
+
+
+
+===========================
+=== SESSION DESCRIPTION ===
+===========================
+
+Session 1 - PC Recording
+------------------------------
+No description available
+
+Events: 
+Code	Counter	Name	Descripton
+1	3	MathCalculus	Event description
+2	3	BaseLine	Toggle event marker generates a toggle. The duration of the toggle is user dependent.
+4	3	AudioListeni	Event description
+
+Session 2 - PC Recording
+------------------------------
+No description available
+
+Events: 
+Code	Counter	Name	Descripton
+1	3	MathCalculus	Event description
+2	2	BaseLine	Toggle event marker generates a toggle. The duration of the toggle is user dependent.
+4	3	AudioListeni	Event description
+
+
+Session 3 - PC Recording
+------------------------------
+No description available
+
+Events: 
+Code	Counter	Name	Descripton
+16	3	Listening	Event description
+4	2	Baseline	Event description
+8	3	Math	Event description
+
+Session 4 - PC Recording
+------------------------------
+No description available
+
+Events: 
+Code	Counter	Name	Descripton
+16	3	Listening	Event description
+4	2	Baseline	Event description
+8	3	Math	Event description
+
+
+Session 5 - PC Recording
+------------------------------
+No description available
+
+Events: 
+Code	Counter	Name	Descripton
+1	3	Audio	Audio
+4	2	Baseline	Baseline
+8	3	CognLoad	CognLoad
+
+Session 6 - PC Recording
+------------------------------
+No description available
+
+Events: 
+Code	Counter	Name	Descripton
+1	3	Audio	Audio
+4	2	Baseline	Baseline
+8	3	CognLoad	CognLoad
